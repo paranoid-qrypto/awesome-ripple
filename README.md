@@ -123,6 +123,7 @@ Pull requests are more than welcome.
 - [XRPValue](http://xrpvalue.com/): Real time XRP price.
 - [RippleGen](https://github.com/CodeShark/RippleGen): A simple multithreaded vanity generator for the ripple p2p network.
 - [Dollero](http://dollero.com/): Global remittance payments software
+- [XRP Airgap Bridge](https://github.com/paranoid-qrypto/xrp-airgap-bridge) - 100% client-side tool for broadcasting signed XRP transactions from air-gapped wallets.
 
 #### Other
 - [International Ripple Business Association](http://www.ripplebusiness.org/)
